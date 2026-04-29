@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "projects-1777448361734-47f845",
+    "createdAt": "2026-04-29T07:39:21.734Z",
+    "updatedAt": "2026-04-29T07:39:21.734Z",
+    "companyId": "",
+    "name": "餐饮项目",
+    "type": "service",
+    "status": "active",
+    "progress": 53,
+    "startDate": "2025-07-01",
+    "endDate": "",
+    "description": "贵州餐饮项目，以贵州宫保盖浇面作为支持，探索数字化餐厅，从而构建商业联盟。"
+  }
+]
