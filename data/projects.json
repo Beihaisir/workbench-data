@@ -1,5 +1,24 @@
 [
   {
+    "id": "projects-1777512861638-dbe73e",
+    "createdAt": "2026-04-30T01:34:21.638Z",
+    "updatedAt": "2026-04-30T01:34:21.638Z",
+    "companyId": "companies-1777448188568-cdc136",
+    "companyIds": [
+      "companies-1777448188568-cdc136",
+      "companies-1777448161677-e4f4e6"
+    ],
+    "name": "贵阳办公室日常运维",
+    "type": "software",
+    "status": "active",
+    "progress": 0,
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：贵阳办公室日常运维",
+    "projectIds": [],
+    "taskIds": [],
+    "projectId": "",
+    "taskId": ""
+  },
+  {
     "id": "projects-1777512000819-16d218",
     "createdAt": "2026-04-30T01:20:00.819Z",
     "updatedAt": "2026-04-30T01:20:00.819Z",
