@@ -1,5 +1,19 @@
 [
   {
+    "id": "task-e79659c3-038d-4e29-8dcf-46f2eac3ac08",
+    "title": "发现 12 条记录缺少项目关联",
+    "description": "建议补齐公司、项目、任务三层关联，否则 KPI、周报和追溯会不准确。",
+    "status": "待办",
+    "priority": "P2-中",
+    "type": "跟进",
+    "companyIds": [],
+    "projectIds": [],
+    "taskIds": [],
+    "source": "AI优化建议",
+    "createdAt": "2026-04-30T02:10:42.997Z",
+    "updatedAt": "2026-04-30T02:10:42.997Z"
+  },
+  {
     "id": "tasks-1777512862898-27c966",
     "createdAt": "2026-04-30T01:34:22.898Z",
     "updatedAt": "2026-04-30T01:34:22.898Z",
