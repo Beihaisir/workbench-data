@@ -1,5 +1,27 @@
 [
   {
+    "id": "tasks-1777511244157-3e3409",
+    "createdAt": "2026-04-30T01:07:24.157Z",
+    "updatedAt": "2026-04-30T01:07:24.157Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：餐饮项目"
+  },
+  {
+    "id": "tasks-1777511238590-1642f5",
+    "createdAt": "2026-04-30T01:07:18.590Z",
+    "updatedAt": "2026-04-30T01:07:18.590Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目；系统异常问题反馈及跟进；及时完成；未完成扣70分",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入异常：餐饮项目；系统异常问题反馈及跟进；及时完成；未完成扣70分"
+  },
+  {
     "id": "tasks-1777511236703-a0086e",
     "createdAt": "2026-04-30T01:07:16.703Z",
     "updatedAt": "2026-04-30T01:07:16.703Z",
@@ -97,20 +119,5 @@
     "status": "todo",
     "priority": "P2",
     "description": "AI 根据工作内容自动建议创建：汪远涛在餐饮项目中负责系统设备安装调试、异常反馈、业务需求对接、系统对接、餐品设计、外卖测试及日常运维，办公室和农牧日常运维，KPI自评90分。"
-  },
-  {
-    "id": "tasks-1777448405597-dc38e5",
-    "createdAt": "2026-04-29T07:40:05.597Z",
-    "updatedAt": "2026-04-29T07:40:05.597Z",
-    "companyId": "",
-    "title": "测试",
-    "projectId": "projects-1777448361734-47f845",
-    "priority": "P0",
-    "status": "todo",
-    "dueDate": "2026-05-14",
-    "taskType": "",
-    "requirementId": "",
-    "incidentId": "",
-    "blockReason": ""
   }
 ]
