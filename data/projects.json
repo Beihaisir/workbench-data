@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "projects-1777511464647-6c5679",
+    "createdAt": "2026-04-30T01:11:04.647Z",
+    "updatedAt": "2026-04-30T01:11:04.647Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "name": "农牧公司网络项目",
+    "type": "infrastructure",
+    "status": "active",
+    "progress": 88,
+    "startDate": "2025-08-09",
+    "endDate": "",
+    "description": ""
+  },
+  {
+    "id": "projects-1777511398515-c8c015",
+    "createdAt": "2026-04-30T01:09:58.515Z",
+    "updatedAt": "2026-04-30T01:09:58.515Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "name": "餐饮项目",
+    "type": "software",
+    "status": "active",
+    "progress": 53,
+    "startDate": "2025-07-01",
+    "endDate": "",
+    "description": ""
+  }
+]
