@@ -22,5 +22,34 @@
     "companyId": "",
     "name": "贵州正大农牧食品有限公司",
     "description": ""
+  },
+  {
+    "id": "company-meican",
+    "name": "正大美餐(贵州)科技有限公司",
+    "shortName": "正大美餐",
+    "aliases": [
+      "餐饮",
+      "门店",
+      "贵餐饮",
+      "美餐",
+      "正大美餐"
+    ],
+    "description": "餐饮、门店、餐道、莲花 go 等相关默认关联公司。",
+    "createdAt": "2026-04-30T02:00:55.813Z",
+    "updatedAt": "2026-04-30T02:03:44.243Z"
+  },
+  {
+    "id": "company-guiyang-feed",
+    "name": "贵阳正大饲料有限公司",
+    "shortName": "贵阳正大饲料",
+    "aliases": [
+      "贵阳正大",
+      "贵阳正大饲料厂",
+      "饲料厂",
+      "贵阳饲料"
+    ],
+    "description": "贵阳正大、贵阳正大饲料厂相关默认关联公司。",
+    "createdAt": "2026-04-30T02:00:55.813Z",
+    "updatedAt": "2026-04-30T02:00:55.813Z"
   }
 ]
