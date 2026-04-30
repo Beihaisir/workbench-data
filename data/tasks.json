@@ -1,5 +1,82 @@
 [
   {
+    "id": "tasks-1777511236703-a0086e",
+    "createdAt": "2026-04-30T01:07:16.703Z",
+    "updatedAt": "2026-04-30T01:07:16.703Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：餐饮项目"
+  },
+  {
+    "id": "tasks-1777510663145-365d15",
+    "createdAt": "2026-04-30T00:57:43.145Z",
+    "updatedAt": "2026-04-30T00:57:43.145Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：餐饮项目"
+  },
+  {
+    "id": "tasks-1777510649883-a74f5e",
+    "createdAt": "2026-04-30T00:57:29.883Z",
+    "updatedAt": "2026-04-30T00:57:29.883Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：餐饮项目"
+  },
+  {
+    "id": "tasks-1777510645340-32dddf",
+    "createdAt": "2026-04-30T00:57:25.340Z",
+    "updatedAt": "2026-04-30T00:57:25.340Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：餐饮项目"
+  },
+  {
+    "id": "tasks-1777510639746-ea91e5",
+    "createdAt": "2026-04-30T00:57:19.746Z",
+    "updatedAt": "2026-04-30T00:57:19.746Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：餐饮项目"
+  },
+  {
+    "id": "tasks-1777510628052-3e3c85",
+    "createdAt": "2026-04-30T00:57:08.052Z",
+    "updatedAt": "2026-04-30T00:57:08.052Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：餐饮项目"
+  },
+  {
+    "id": "tasks-1777510617956-7a66d3",
+    "createdAt": "2026-04-30T00:56:57.956Z",
+    "updatedAt": "2026-04-30T00:56:57.956Z",
+    "companyId": "companies-1777448206886-637eaa",
+    "projectId": "projects-1777448361734-47f845",
+    "title": "餐饮项目；系统异常问题反馈及跟进；及时完成；未完成扣70分",
+    "status": "todo",
+    "priority": "P2",
+    "description": "AI 根据工作内容自动建议创建：导入异常：餐饮项目；系统异常问题反馈及跟进；及时完成；未完成扣70分"
+  },
+  {
     "id": "tasks-1777510616207-5a92a6",
     "createdAt": "2026-04-30T00:56:56.207Z",
     "updatedAt": "2026-04-30T00:56:56.207Z",
