@@ -1,5 +1,23 @@
 [
   {
+    "id": "projects-1777512000819-16d218",
+    "createdAt": "2026-04-30T01:20:00.819Z",
+    "updatedAt": "2026-04-30T01:20:00.819Z",
+    "companyId": "companies-1777511358945-2b88b4",
+    "companyIds": [
+      "companies-1777511358945-2b88b4"
+    ],
+    "name": "门店管理、餐道、莲花go系统日常维护；积极完成；门店管理、餐道、莲花go系统日常维护",
+    "type": "software",
+    "status": "active",
+    "progress": 0,
+    "description": "AI 根据工作内容自动建议创建：导入 KPI 工作项：门店管理、餐道、莲花go系统日常维护；积极完成；门店管理、餐道、莲花go系统日常维护",
+    "projectIds": [],
+    "taskIds": [],
+    "projectId": "",
+    "taskId": ""
+  },
+  {
     "id": "projects-1777511525669-3bfdf3",
     "createdAt": "2026-04-30T01:12:05.669Z",
     "updatedAt": "2026-04-30T01:12:05.669Z",
