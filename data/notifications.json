@@ -1,5 +1,33 @@
 [
   {
+    "id": "notification-997678b5-b744-49f7-928c-631f57d4978b",
+    "title": "跟进：记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐…",
+    "name": "跟进：记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐…",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-e8e74852-7169-49d5-a053-a49a6ac10ccb"
+    ],
+    "taskIds": [
+      "task-84cad343-4545-44b2-b2de-1379f55dc8bf"
+    ],
+    "source": "AI文本导入",
+    "aiTrace": {
+      "originalText": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券抵扣",
+      "confidence": 1,
+      "companyReason": "明确提到餐饮、门店或贵餐饮。",
+      "projectReason": "根据关键词建议新建项目：餐饮门店系统"
+    },
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z",
+    "content": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券抵扣",
+    "kind": "跟进提醒",
+    "notifyAt": "2026-05-10 09:00",
+    "status": "待推送",
+    "pushedAt": ""
+  },
+  {
     "id": "notifications-1777512779124-ebd824",
     "createdAt": "2026-04-30T01:32:59.124Z",
     "updatedAt": "2026-04-30T01:32:59.124Z",
