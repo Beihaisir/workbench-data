@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "requirement-22c564fc-2cc6-4ab9-b835-b9c268fa4406",
+    "title": "pos端不能查看核销数据，导致报表不准",
+    "name": "pos端不能查看核销数据，导致报表不准",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-3ce61f5b-2722-4d83-86db-a31086430cf9"
+    ],
+    "taskIds": [
+      "task-2405e6cc-3461-49e7-9720-23456ffb3aee"
+    ],
+    "source": "AI文本导入",
+    "aiTrace": {
+      "originalText": "pos端不能查看核销数据，导致报表不准",
+      "confidence": 0.4,
+      "companyReason": "",
+      "projectReason": "没有明确项目，建议先放入未归类日常工作。"
+    },
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z",
+    "description": "pos端不能查看核销数据，导致报表不准",
+    "priority": "P2-中",
+    "status": "草稿",
+    "acceptanceCriteria": ""
+  },
+  {
+    "id": "requirement-0f883b61-8833-4547-9554-2992ec2c7bdb",
+    "title": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券…",
+    "name": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券…",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-e8e74852-7169-49d5-a053-a49a6ac10ccb"
+    ],
+    "taskIds": [
+      "tasks-1777510628052-3e3c85"
+    ],
+    "source": "AI文本导入",
+    "aiTrace": {
+      "originalText": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券抵扣",
+      "confidence": 1,
+      "companyReason": "明确提到餐饮、门店或贵餐饮。",
+      "projectReason": "根据关键词建议新建项目：餐饮门店系统"
+    },
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z",
+    "description": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券抵扣",
+    "priority": "P2-中",
+    "status": "草稿",
+    "acceptanceCriteria": ""
+  }
+]
