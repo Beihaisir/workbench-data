@@ -1,5 +1,62 @@
 [
   {
+    "id": "task-1ce15021-b08b-4659-85de-e0155e0e6166",
+    "title": "外卖接单不会同步扣减库存。",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-3ce61f5b-2722-4d83-86db-a31086430cf9"
+    ],
+    "status": "待办",
+    "priority": "P2-中",
+    "type": "跟进",
+    "dueDate": "",
+    "followUpAt": "",
+    "description": "外卖接单不会同步扣减库存。",
+    "source": "AI文本导入",
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z"
+  },
+  {
+    "id": "task-2405e6cc-3461-49e7-9720-23456ffb3aee",
+    "title": "pos端不能查看核销数据，导致报表不准",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-3ce61f5b-2722-4d83-86db-a31086430cf9"
+    ],
+    "status": "待办",
+    "priority": "P2-中",
+    "type": "跟进",
+    "dueDate": "",
+    "followUpAt": "",
+    "description": "pos端不能查看核销数据，导致报表不准",
+    "source": "AI文本导入",
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z"
+  },
+  {
+    "id": "task-84cad343-4545-44b2-b2de-1379f55dc8bf",
+    "title": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能…",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-e8e74852-7169-49d5-a053-a49a6ac10ccb"
+    ],
+    "status": "待办",
+    "priority": "P2-中",
+    "type": "跟进",
+    "dueDate": "",
+    "followUpAt": "",
+    "description": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券抵扣",
+    "source": "AI文本导入",
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z"
+  },
+  {
     "id": "task-e79659c3-038d-4e29-8dcf-46f2eac3ac08",
     "title": "发现 12 条记录缺少项目关联",
     "description": "建议补齐公司、项目、任务三层关联，否则 KPI、周报和追溯会不准确。",
