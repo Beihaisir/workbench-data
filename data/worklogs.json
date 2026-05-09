@@ -1,0 +1,77 @@
+[
+  {
+    "id": "worklog-e4c690cb-8345-4c6b-b9fa-649addd97fbb",
+    "title": "外卖接单不会同步扣减库存。",
+    "name": "外卖接单不会同步扣减库存。",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-3ce61f5b-2722-4d83-86db-a31086430cf9"
+    ],
+    "taskIds": [
+      "task-1ce15021-b08b-4659-85de-e0155e0e6166"
+    ],
+    "source": "AI文本导入",
+    "aiTrace": {
+      "originalText": "外卖接单不会同步扣减库存。",
+      "confidence": 0.4,
+      "companyReason": "",
+      "projectReason": "没有明确项目，建议先放入未归类日常工作。"
+    },
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z",
+    "date": "2026-05-09",
+    "content": "外卖接单不会同步扣减库存。"
+  },
+  {
+    "id": "worklog-bc66ea79-1e62-4ab6-a5fc-ea5377f81389",
+    "title": "pos端不能查看核销数据，导致报表不准",
+    "name": "pos端不能查看核销数据，导致报表不准",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "project-3ce61f5b-2722-4d83-86db-a31086430cf9"
+    ],
+    "taskIds": [
+      "task-2405e6cc-3461-49e7-9720-23456ffb3aee"
+    ],
+    "source": "AI文本导入",
+    "aiTrace": {
+      "originalText": "pos端不能查看核销数据，导致报表不准",
+      "confidence": 0.4,
+      "companyReason": "",
+      "projectReason": "没有明确项目，建议先放入未归类日常工作。"
+    },
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z",
+    "date": "2026-05-09",
+    "content": "pos端不能查看核销数据，导致报表不准"
+  },
+  {
+    "id": "worklog-0d10ad26-8085-4e42-8d9a-a02b9287eadd",
+    "title": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券…",
+    "name": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券…",
+    "companyIds": [
+      "company-meican"
+    ],
+    "projectIds": [
+      "projects-1777512000819-16d218"
+    ],
+    "taskIds": [
+      "tasks-1777511244157-3e3409"
+    ],
+    "source": "AI文本导入",
+    "aiTrace": {
+      "originalText": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券抵扣",
+      "confidence": 1,
+      "companyReason": "明确提到餐饮、门店或贵餐饮。",
+      "projectReason": "根据关键词建议新建项目：餐饮门店系统"
+    },
+    "createdAt": "2026-05-09T08:48:38.176Z",
+    "updatedAt": "2026-05-09T08:48:38.176Z",
+    "date": "2026-05-09",
+    "content": "记录需要当前餐饮系统团购核销功能有的问题：1、在团购套餐里面另加东西，能被团购券抵扣"
+  }
+]
