@@ -1,0 +1,49 @@
+[
+  {
+    "id": "rem-mp26gzak-g8e32y",
+    "followupId": "fol-mp26gzak-r61e93",
+    "日期": "2026-05-06",
+    "标题": "提醒：餐饮项目60017店账务对账",
+    "提醒时间": "2026-05-13 09:00",
+    "状态": "待推送",
+    "渠道": "飞书机器人",
+    "companyIds": [
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-catering"
+    ]
+  },
+  {
+    "id": "rem-mp26gzaj-owpzkv",
+    "followupId": "fol-mp26gzaj-unsq9c",
+    "日期": "2026-05-06",
+    "标题": "提醒：正大餐饮系统与餐道团购/外卖对接",
+    "提醒时间": "2026-05-13 09:00",
+    "状态": "待推送",
+    "渠道": "飞书机器人",
+    "companyIds": [
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-catering",
+      "sys-candao"
+    ]
+  },
+  {
+    "id": "rem-mp26gzaj-r3d1w3",
+    "followupId": "fol-mp26gzaj-1m2fti",
+    "日期": "2026-05-06",
+    "标题": "提醒：SS系统数据异常对接",
+    "提醒时间": "2026-05-13 09:00",
+    "状态": "待推送",
+    "渠道": "飞书机器人",
+    "companyIds": [
+      "co-nm",
+      "co-bf"
+    ],
+    "systemIds": [
+      "sys-ss"
+    ]
+  }
+]
