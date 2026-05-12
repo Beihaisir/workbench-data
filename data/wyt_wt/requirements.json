@@ -1,0 +1,49 @@
+[
+  {
+    "id": "req-mp26gzaj-2wa46g",
+    "eventId": "evt-mp26gzaj-so7ssu",
+    "日期": "2026-05-06",
+    "需求名称": "正大餐饮系统与餐道团购/外卖对接",
+    "需求描述": "推进系统/接口对接：餐饮项目系统与餐道的团购和外卖对接",
+    "状态": "待确认",
+    "companyIds": [
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-catering",
+      "sys-candao"
+    ],
+    "版本号": ""
+  },
+  {
+    "id": "req-mp26gzaj-mde038",
+    "eventId": "evt-mp26gzaj-nnso7c",
+    "日期": "2026-05-06",
+    "需求名称": "餐饮项目套餐维护",
+    "需求描述": "配合餐饮项目完成套餐维护",
+    "状态": "待确认",
+    "companyIds": [
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-catering"
+    ],
+    "版本号": ""
+  },
+  {
+    "id": "req-mp26gzaj-28cuux",
+    "eventId": "evt-mp26gzaj-zlevc7",
+    "日期": "2026-05-06",
+    "需求名称": "SS系统数据异常对接",
+    "需求描述": "处理异常/反馈：SS系统数据异常对接",
+    "状态": "待确认",
+    "companyIds": [
+      "co-nm",
+      "co-bf"
+    ],
+    "systemIds": [
+      "sys-ss"
+    ],
+    "版本号": ""
+  }
+]
