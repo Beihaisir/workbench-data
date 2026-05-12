@@ -1,0 +1,79 @@
+[
+  {
+    "id": "prog-mp26gzak-ze468z",
+    "eventId": "evt-mp26gzak-4gaarg",
+    "日期": "2026-05-06",
+    "标题": "餐饮项目60017店账务对账",
+    "进度说明": "处理账务/对账事项：餐饮项目60017店4月份账务对账",
+    "状态": "推进中",
+    "companyIds": [
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-catering"
+    ],
+    "下一步": "继续确认对账结果并留存差异说明"
+  },
+  {
+    "id": "prog-mp26gzaj-4ml6b5",
+    "eventId": "evt-mp26gzaj-so7ssu",
+    "日期": "2026-05-06",
+    "标题": "正大餐饮系统与餐道团购/外卖对接",
+    "进度说明": "推进系统/接口对接：餐饮项目系统与餐道的团购和外卖对接",
+    "状态": "推进中",
+    "companyIds": [
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-catering",
+      "sys-candao"
+    ],
+    "下一步": "继续确认接口联调结果和业务验收情况"
+  },
+  {
+    "id": "prog-mp26gzaj-5t5jh6",
+    "eventId": "evt-mp26gzaj-nnso7c",
+    "日期": "2026-05-06",
+    "标题": "餐饮项目套餐维护",
+    "进度说明": "配合餐饮项目完成套餐维护",
+    "状态": "推进中",
+    "companyIds": [
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-catering"
+    ],
+    "下一步": ""
+  },
+  {
+    "id": "prog-mp26gzaj-1q1fyx",
+    "eventId": "evt-mp26gzaj-zlevc7",
+    "日期": "2026-05-06",
+    "标题": "SS系统数据异常对接",
+    "进度说明": "处理异常/反馈：SS系统数据异常对接",
+    "状态": "处理中",
+    "companyIds": [
+      "co-nm",
+      "co-bf"
+    ],
+    "systemIds": [
+      "sys-ss"
+    ],
+    "下一步": "继续对接责任人排查并更新处理结果"
+  },
+  {
+    "id": "prog-mp26gzaj-m1yquw",
+    "eventId": "evt-mp26gzaj-y8kd3o",
+    "日期": "2026-05-06",
+    "标题": "集团OpenClaw比赛资料提交",
+    "进度说明": "完成资料/材料提交：集团openclaw比赛资料提交",
+    "状态": "推进中",
+    "companyIds": [
+      "co-bf"
+    ],
+    "systemIds": [
+      "sys-openclaw"
+    ],
+    "下一步": ""
+  }
+]
