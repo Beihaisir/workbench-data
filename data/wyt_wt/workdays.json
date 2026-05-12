@@ -1,0 +1,27 @@
+[
+  {
+    "id": "day-mp26gzaj-umwutr",
+    "日期": "2026-05-06",
+    "原始输入": "2026/5/6\t集团openclaw比赛资料提交、SS系统数据异常对接、配合餐饮项目完成套餐维护、餐饮项目系统与餐道的团购和外卖对接、餐饮项目60017店4月份账务对账\n",
+    "今日摘要": "1. 完成资料/材料提交：集团openclaw比赛资料提交\n2. 处理异常/反馈：SS系统数据异常对接\n3. 配合餐饮项目完成套餐维护\n4. 推进系统/接口对接：餐饮项目系统与餐道的团购和外卖对接\n5. 处理账务/对账事项：餐饮项目60017店4月份账务对账",
+    "eventIds": [
+      "evt-mp26gzaj-y8kd3o",
+      "evt-mp26gzaj-zlevc7",
+      "evt-mp26gzaj-nnso7c",
+      "evt-mp26gzaj-so7ssu",
+      "evt-mp26gzak-4gaarg"
+    ],
+    "companyIds": [
+      "co-bf",
+      "co-nm",
+      "co-ms"
+    ],
+    "systemIds": [
+      "sys-openclaw",
+      "sys-ss",
+      "sys-catering",
+      "sys-candao"
+    ],
+    "createdAt": "2026-05-12T05:16:10.796Z"
+  }
+]
